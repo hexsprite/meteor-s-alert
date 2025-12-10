@@ -1,0 +1,3 @@
+[submodule "packages/meteor-stylus"]
+	path = packages/meteor-stylus
+	url = https://github.com/Meteor-Community-Packages/meteor-stylus.git
